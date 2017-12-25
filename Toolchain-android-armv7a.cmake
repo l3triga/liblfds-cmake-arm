@@ -1,0 +1,5 @@
+set(CMAKE_SYSTEM_NAME Android)
+set(CMAKE_SYSTEM_VERSION 16)
+set(CMAKE_ANDROID_ARCH_ABI armeabi-v7a)
+set(CMAKE_ANDROID_NDK /usr/local/Android/Sdk/ndk-bundle)
+set(CMAKE_ANDROID_STL_TYPE c++_shared)
